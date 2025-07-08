@@ -1,3 +1,38 @@
+# 🏡 Dream Nest – Full Stack Home Rentals Application
+
+A fully functional full-stack **Home Rentals** web application built with **React.js**, **Redux**, **Node.js**, **MongoDB**, and **Material UI**. This project allows users to browse listings by categories, view property details, create listings, make bookings, and manage wishlists — all in one platform.
+
+## 🔗 Live Demo
+
+Coming Soon...
+
+## ⭐ Features
+
+- 📝 **User Authentication** (Sign Up / Log In) using JWT & Bcrypt  
+- 🏠 **Create Listings** with detailed property info, categories, and images  
+- 📸 **Upload, Delete & Reorder Photos** (drag and drop support)  
+- 📅 **Booking System** with calendar view  
+- 🔍 **Search Listings** by keyword and filter by category  
+- 💖 **Add to Wishlist / Remove from Wishlist**  
+- 📂 **Upload Photos** and store in MongoDB using Mongoose  
+- 🌐 **Responsive UI** using Material UI and SCSS  
+- 📦 **State Management** with Redux Toolkit
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+- React.js  
+- Redux Toolkit  
+- Material UI  
+- SCSS (Sass)
+
+**Backend**  
+- Node.js  
+- Express.js  
+- MongoDB with Mongoose  
+- JWT Authentication  
+- Bcrypt for password hashing
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
